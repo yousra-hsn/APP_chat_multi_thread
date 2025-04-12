@@ -14,7 +14,7 @@ Le projet consiste à développer une application de chat en réseau utilisant d
 
 ## Contribution
 
-Projet académique réalisé dans le cadre de l'UV **AI13**. Octobre 2024
+Projet académique réalisé dans le cadre de l'UV **AI13** à l'Université de Technologie de Compiègne. Octobre 2024
 
 3 membres : 
 - **Jana Rafei**
